@@ -1,4 +1,4 @@
-# sky-shop-task
+# products-list
 
 ## Project setup
 Make sure you have Node.js installed.
